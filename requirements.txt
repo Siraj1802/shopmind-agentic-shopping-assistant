@@ -1,0 +1,12 @@
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Environment configuration
+python-dotenv
+
+# Testing
+pytest
+httpx
